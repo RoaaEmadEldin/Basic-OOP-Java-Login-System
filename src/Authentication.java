@@ -1,4 +1,3 @@
-import java.util.Objects;
 
 public class Authentication{
     // Login Function that returns a User if successful login, else returns null
